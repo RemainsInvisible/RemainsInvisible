@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @RemainsInvisible
-- 👀 I’m interested in Game Programming
-- 🌱 I’m currently learning more about C++
-- 📫 You can contact me through Discord at 𝙩ᵉᵃ #5463
